@@ -1,4 +1,4 @@
 [build]
 command = "php index.php"
-publish = "public"
-environment = { PHP_VERSION = "8.1.13" }
+publish = "."
+environment = { PHP_VERSION = "8.1" }

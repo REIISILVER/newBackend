@@ -1,3 +1,0 @@
-[build]
-  command = "php --version"
-  environment = { PHP_VERSION = " 8.1.22" }
